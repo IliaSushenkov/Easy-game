@@ -1,0 +1,26 @@
+C:\Users\ilias\source\repos\BestGame\BestGame\obj\Debug\netcoreapp3.1\BestGame.csprojAssemblyReference.cache
+C:\Users\ilias\source\repos\BestGame\BestGame\obj\Debug\netcoreapp3.1\BestGame.AssemblyInfoInputs.cache
+C:\Users\ilias\source\repos\BestGame\BestGame\obj\Debug\netcoreapp3.1\BestGame.AssemblyInfo.cs
+C:\Users\ilias\source\repos\BestGame\BestGame\obj\Debug\netcoreapp3.1\BestGame.csproj.CoreCompileInputs.cache
+C:\Users\ilias\source\repos\BestGame\BestGame\bin\Debug\netcoreapp3.1\BestGame.exe
+C:\Users\ilias\source\repos\BestGame\BestGame\bin\Debug\netcoreapp3.1\BestGame.deps.json
+C:\Users\ilias\source\repos\BestGame\BestGame\bin\Debug\netcoreapp3.1\BestGame.runtimeconfig.json
+C:\Users\ilias\source\repos\BestGame\BestGame\bin\Debug\netcoreapp3.1\BestGame.runtimeconfig.dev.json
+C:\Users\ilias\source\repos\BestGame\BestGame\bin\Debug\netcoreapp3.1\BestGame.dll
+C:\Users\ilias\source\repos\BestGame\BestGame\bin\Debug\netcoreapp3.1\BestGame.pdb
+C:\Users\ilias\source\repos\BestGame\BestGame\obj\Debug\netcoreapp3.1\BestGame.dll
+C:\Users\ilias\source\repos\BestGame\BestGame\obj\Debug\netcoreapp3.1\BestGame.pdb
+C:\Users\ilias\source\repos\BestGame\BestGame\obj\Debug\netcoreapp3.1\BestGame.genruntimeconfig.cache
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\bin\Debug\netcoreapp3.1\BestGame.exe
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\bin\Debug\netcoreapp3.1\BestGame.deps.json
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\bin\Debug\netcoreapp3.1\BestGame.runtimeconfig.json
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\bin\Debug\netcoreapp3.1\BestGame.runtimeconfig.dev.json
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\bin\Debug\netcoreapp3.1\BestGame.dll
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\bin\Debug\netcoreapp3.1\BestGame.pdb
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\obj\Debug\netcoreapp3.1\BestGame.csprojAssemblyReference.cache
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\obj\Debug\netcoreapp3.1\BestGame.AssemblyInfoInputs.cache
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\obj\Debug\netcoreapp3.1\BestGame.AssemblyInfo.cs
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\obj\Debug\netcoreapp3.1\BestGame.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\obj\Debug\netcoreapp3.1\BestGame.dll
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\obj\Debug\netcoreapp3.1\BestGame.pdb
+C:\Users\ilias\Desktop\HomeWork 3.2\BestGame\obj\Debug\netcoreapp3.1\BestGame.genruntimeconfig.cache
