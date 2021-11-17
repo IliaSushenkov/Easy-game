@@ -1,0 +1,7 @@
+C:\Users\ilias\Desktop\TZ\TZ\bin\Debug\TZ.exe.config
+C:\Users\ilias\Desktop\TZ\TZ\bin\Debug\TZ.exe
+C:\Users\ilias\Desktop\TZ\TZ\bin\Debug\TZ.pdb
+C:\Users\ilias\Desktop\TZ\TZ\obj\Debug\TZ.csproj.AssemblyReference.cache
+C:\Users\ilias\Desktop\TZ\TZ\obj\Debug\TZ.csproj.CoreCompileInputs.cache
+C:\Users\ilias\Desktop\TZ\TZ\obj\Debug\TZ.exe
+C:\Users\ilias\Desktop\TZ\TZ\obj\Debug\TZ.pdb
